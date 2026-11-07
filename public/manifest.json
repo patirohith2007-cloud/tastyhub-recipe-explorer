@@ -1,0 +1,19 @@
+{
+  "id": "/",
+  "name": "TastyHub – Recipe Explorer",
+  "short_name": "TastyHub",
+  "description": "Discover, cook, and manage delicious recipes with step-by-step instructions and interactive kitchen guide.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "theme_color": "#E65100",
+  "background_color": "#FBF8F5",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

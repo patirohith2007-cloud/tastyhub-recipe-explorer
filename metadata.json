@@ -1,0 +1,8 @@
+{
+  "name": "TastyHub – Recipe Explorer",
+  "description": "A comprehensive recipe application featuring real-time recipe discovery, category filtering, step-by-step cooking guides, personal recipe creator, and favorites with local persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
